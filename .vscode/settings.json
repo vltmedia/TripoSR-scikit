@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#4A221C",
+        "titleBar.activeBackground": "#682F27",
+        "titleBar.activeForeground": "#FDF9F9"
+    },
+    "window.title": "${dirty}${activeEditorShort}${separator}${rootName}${separator}${profileName}${separator}${appName}${separator}[Branch: main]"
+}
